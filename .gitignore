@@ -1,0 +1,56 @@
+# VS Code workspace settings
+.vscode/
+
+# JetBrains IDEs (CLion, IntelliJ, etc.)
+.idea/
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled executable files
+*.exe
+*.out
+*.app
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Static/Shared Libraries
+*.lib
+*.a
+*.so
+*.dll
+*.dylib
+
+# Build directories
+build/
+Build/
+bin/
+debug/
+release/
+x64/
+x86/
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Other IDE/project files
+*.user
+*.suo
+*.sdf
+*.ipch
+*.opensdf
+*.VC.db
+*.vcxproj*
+*.code-workspace
+
+# Backup/temporary files
+*~
+*.swp
+.DS_Store
+Thumbs.db
